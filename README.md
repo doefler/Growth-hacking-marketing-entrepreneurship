@@ -11,7 +11,7 @@ Be sure to do that now, so you don't miss out on anything.
 
 ## Tools I have made
 
-- [Automate your Twitter using Google Sheets](https://sheetstweets.com/)
+- [Automate your Twitter using Google Sheets](https://sheetstweets.com/).
     Sheetstweets is FREE to set up. It puts social media posting of Medium posts you read on autopilot.
     It generates a customized tweet based on information in the article as well as tweet templates you make.
     The result is highly engaging tweets, posted automaticly, when you hit recommend.
@@ -23,7 +23,7 @@ Be sure to do that now, so you don't miss out on anything.
 - [Contact Kim Døfler for collaboration](https://doefler.com/contact/)
 - [Overview of my articles](https://doefler.com/articles/)
 
-## Articles
+## Articles I have written
 - [Why I built my own Twitter automation tool](https://doefler.com/built-twitter-automation-tool/)
 - [The interest for growth hacking keeps increasing](https://doefler.com/interest-growth-hacking-keeps-increasing/)
 - [Being your own boss - Design your own future](https://doefler.com/design-your-own-future/)
@@ -40,7 +40,7 @@ Be sure to do that now, so you don't miss out on anything.
 
 ## Categories to explore
 
-- [Growth Hacking Marketing: techniques, discussion, and how-tos](https://doefler.com/category/growth-hacking/)
+- [Growth Hacking](https://doefler.com/category/growth-hacking/)
 - [Productivity](https://www.doefler.com/category/productivity/)
 - [Business](http://doefler.com/category/business/)
 - [Entrepreneur](https://doefler.com/category/entrepreneur/)
