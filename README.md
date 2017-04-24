@@ -41,16 +41,9 @@ Be sure to do that now, so you don't miss out on anything.
 ## Categories to explore
 
 - [Growth Hacking](https://doefler.com/category/growth-hacking/)
-- [Productivity](https://www.doefler.com/category/productivity/)
-- [Business](http://doefler.com/category/business/)
-- [Entrepreneur](https://doefler.com/category/entrepreneur/)
-- [Ideation](https://www.doefler.com/category/ideation/)
 - [Life hacking](https://www.doefler.com/category/life-hacking/)
 - [Social media](https://doefler.com/category/social-media/)
 
-## Tags to discover
-
-[Life](http://doefler.com/tag/life/), [Entrepreneurship](https://doefler.com/tag/entrepreneurship/), [Success](https://doefler.com/tag/success/), [IFTTT](https://doefler.com/tag/ifttt/), [Innovation](https://doefler.com/tag/innovation/), [Twitter](http://doefler.com/tag/twitter/), [Productivity](https://www.doefler.com/tag/productivity/), [Automation](https://www.doefler.com/tag/automation/), [Startup](http://doefler.com/tag/startup/), [Marketing](http://doefler.com/tag/marketing/), [Growth Hacking](https://www.doefler.com/tag/growth-hacking/), [Self Improvement](https://doefler.com/tag/self-improvement/), [Habit Building](https://www.doefler.com/tag/habit-building/), [Facebook ads](https://doefler.com/tag/facebook-ads/), [Targeted audiences](https://doefler.com/tag/targeted-audiences/)
 
 Thank you for checking this page out.
 
